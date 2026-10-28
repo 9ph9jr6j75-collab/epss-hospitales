@@ -1,0 +1,46 @@
+name: Publicar EPSS Hospitales en GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v6
+      - name: Comprobar la app hospitalaria
+        run: |
+          test -s dist/index.html
+          node --check dist/app-v2.js
+          node --check dist/full-reader.js
+          node --check dist/document-viewer.js
+          node --check dist/sw.js
+          python3 scripts/verify-hospital-catalog.py
+          python3 scripts/verify-hospital-reading.py
+          node scripts/verify-full-reader.cjs
+          node scripts/verify-analytics.cjs
+          node scripts/verify-document-viewer.cjs
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Preparar publicación
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v4

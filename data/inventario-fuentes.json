@@ -1,0 +1,1427 @@
+{
+  "schemaVersion": 1,
+  "auditedOn": "2026-10-28",
+  "scope": "Segundo y tercer nivel de atención; hospitales y servicios aplicables según ficha",
+  "counts": {
+    "nonemptyApplicableFichas": 46,
+    "nonemptyByKind": {
+      "evaluation": 18,
+      "complementary": 28
+    },
+    "fallbackFichas": 2,
+    "totalIncludingFallback": 48,
+    "pendingApplicability": 1
+  },
+  "fichas": [
+    {
+      "kind": "evaluation",
+      "categoryId": "10",
+      "originalName": "10_01_1_1_PORCENTAJE_ TPA_MENOR_30_MIN (V_1_1).pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/10_01_1_1_PORCENTAJE_ TPA_MENOR_30_MIN (V_1_1).pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/10_01_1_1_PORCENTAJE_ TPA_MENOR_30_MIN (V_1_1).txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/view?usp=drivesdk"
+      ],
+      "sha256": "a98330d8e2c0c167f933522d40326dadfd10d61d1c02e0b92467364397e1bd10",
+      "codesMentioned": [
+        "10-01-1.1"
+      ],
+      "code": "10-01-1.1",
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                II-III."
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "10",
+      "originalName": "10_02_1_0_TIEMPO_PUERTA_BALON_MENOR_90_MIN.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/10_02_1_0_TIEMPO_PUERTA_BALON_MENOR_90_MIN.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/10_02_1_0_TIEMPO_PUERTA_BALON_MENOR_90_MIN.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/view?usp=drivesdk"
+      ],
+      "sha256": "763bd34d35b832d316a58fe4e47a243b74731683561e290146558a00d95866cf",
+      "codesMentioned": [
+        "10-02-1.0"
+      ],
+      "code": "10-02-1.0",
+      "declaredLevels": [
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención           III.\n                                                          Urgencias/Emergencias."
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "10",
+      "originalName": "10_03_1_0_TIEMPO_PRIMERA_PUERTA_BALON_MENOR_120_MIN.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/10_03_1_0_TIEMPO_PRIMERA_PUERTA_BALON_MENOR_120_MIN.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/10_03_1_0_TIEMPO_PRIMERA_PUERTA_BALON_MENOR_120_MIN.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/view?usp=drivesdk"
+      ],
+      "sha256": "080d082ddb39fb2600992a905167044f9730cf290dfd4ae684191e6b9ae6bfae",
+      "codesMentioned": [
+        "10-03-1.0"
+      ],
+      "code": "10-03-1.0",
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención               II, III."
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "10",
+      "originalName": "10_04_1_0_REFERENCIA_PROGRAMA_REHABILITACIÓN_CARDÍACA.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/10_04_1_0_REFERENCIA_PROGRAMA_REHABILITACIÓN_CARDÍACA.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/10_04_1_0_REFERENCIA_PROGRAMA_REHABILITACIÓN_CARDÍACA.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/view?usp=drivesdk"
+      ],
+      "sha256": "6fd970d1ae0220af439e3dd8cf2365b63b02f7ecc4e72dd9de9f1d8972502e1c",
+      "codesMentioned": [
+        "10-04-1.0"
+      ],
+      "code": "10-04-1.0",
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención               II-III."
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "10",
+      "originalName": "10_05_1_0_ATENCION_PROGRAMA_REHABILITACIÓN_CARDÍACA.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/10_05_1_0_ATENCION_PROGRAMA_REHABILITACIÓN_CARDÍACA.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/10_05_1_0_ATENCION_PROGRAMA_REHABILITACIÓN_CARDÍACA.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1HoLSL6ELTgN4mxcZvvHfhjR8uFaE5NrO/view?usp=drivesdk"
+      ],
+      "sha256": "27fa79fd6cf300766ecf94736f5640d900562bff64d2be5c93764bdb76281a3c",
+      "codesMentioned": [
+        "10-05-1.0"
+      ],
+      "code": "10-05-1.0",
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                II-III."
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": [
+        "La ficha declara en Meta periodicidad anual y en Periodicidad otra:bienal; conservar ambos textos sin resolver por inferencia."
+      ]
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "12",
+      "originalName": "12_02_1_0_INDICE_APROVECHAMIENTO_CUPO_CONSULTA_ESPECIALIZADA.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1vCKh22d1Eu6ZH2JmwDGqbvScOzV1rZ3Z/12_02_1_0_INDICE_APROVECHAMIENTO_CUPO_CONSULTA_ESPECIALIZADA.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1vCKh22d1Eu6ZH2JmwDGqbvScOzV1rZ3Z/12_02_1_0_INDICE_APROVECHAMIENTO_CUPO_CONSULTA_ESPECIALIZADA.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1vCKh22d1Eu6ZH2JmwDGqbvScOzV1rZ3Z/view?usp=drivesdk"
+      ],
+      "sha256": "45dd2e4726f1c8937299c5de884fcc6c77a4cfd3c3e6b30dce15fcee21ea3349",
+      "codesMentioned": [
+        "12-02-1.0"
+      ],
+      "code": "12-02-1.0",
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Segundo y tercer nivel ambulatorio de clínicas\n                  Nivel de atención\n                                                      especializadas u hospitales",
+        "Nivel de atención              II y III nivel hospitalario y clínicas especializadas",
+        "Nivel de atención               II y III nivel hospitalario y clínicas especializadas",
+        "Nivel de atención                II y III nivel hospitalario y clínicas especializadas"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "12",
+      "originalName": "12_03_1_0_RENDIMIENTO_USO_CAMA_HOSPITALARIA.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1vCKh22d1Eu6ZH2JmwDGqbvScOzV1rZ3Z/12_03_1_0_RENDIMIENTO_USO_CAMA_HOSPITALARIA.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1vCKh22d1Eu6ZH2JmwDGqbvScOzV1rZ3Z/12_03_1_0_RENDIMIENTO_USO_CAMA_HOSPITALARIA.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1vCKh22d1Eu6ZH2JmwDGqbvScOzV1rZ3Z/view?usp=drivesdk"
+      ],
+      "sha256": "258674e104ef9876f77b08970a611af1c44325609aa8366946dbb3ea09df5c4f",
+      "codesMentioned": [
+        "12-03-1.0"
+      ],
+      "code": "12-03-1.0",
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Segundo y tercer nivel con área de hospedería\n                Nivel de atención\n                                                  hospitalaria",
+        "II y III nivel hospitalario y clínicas\n                            Nivel de atención\n                                                         especializadas",
+        "II y III nivel hospitalario y clínicas\n                            Nivel de atención\n                                                             especializadas",
+        "II y III nivel hospitalario y clínicas\n                            Nivel de atención\n                                                             especializadas"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "12",
+      "originalName": "12_05_1_0_INDICE_MORTALIDAD_AJUSTADO_POR_RIESGO.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1vCKh22d1Eu6ZH2JmwDGqbvScOzV1rZ3Z/12_05_1_0_INDICE_MORTALIDAD_AJUSTADO_POR_RIESGO.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1vCKh22d1Eu6ZH2JmwDGqbvScOzV1rZ3Z/12_05_1_0_INDICE_MORTALIDAD_AJUSTADO_POR_RIESGO.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1vCKh22d1Eu6ZH2JmwDGqbvScOzV1rZ3Z/view?usp=drivesdk"
+      ],
+      "sha256": "6504d02cf24f1c1a49b9322cdd5aec80291b41cd3d2d6a25b19e5b005722a8b2",
+      "codesMentioned": [
+        "12-05-1.0"
+      ],
+      "code": "12-05-1.0",
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Segundo y tercer nivel con área de hospedería\n                  Nivel de atención\n                                                   hospitalaria"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_APROVECHAMIENTO_TIEMPO_QUIRÓFANO_DISPONIBLE.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_APROVECHAMIENTO_TIEMPO_QUIRÓFANO_DISPONIBLE.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_APROVECHAMIENTO_TIEMPO_QUIRÓFANO_DISPONIBLE.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "f3b8f36940cc7a6b8116821e510ee11483d9685b3f0bc9ae5fd87ce0efafc43d",
+      "codesMentioned": [
+        "12-03-1.0"
+      ],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                   Segundo y tercer nivel hospitalario"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_AUSENTISMO_NETO.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_AUSENTISMO_NETO.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_AUSENTISMO_NETO.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "f3f57f954e968e2c3ef216c58cb45367a07a8d1ee008be8acf573c307acca3f8",
+      "codesMentioned": [
+        "12-02-1.0"
+      ],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Establecimiento de salud.\n                             Nivel de atención\n                                                              Red Integrada de Servicios de Salud (RIPSS)\n                                                              Especialidad"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_BRECHA_OFERTA_DEMANDA_CONSULTA_ESPECIALIZADA.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_BRECHA_OFERTA_DEMANDA_CONSULTA_ESPECIALIZADA.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_BRECHA_OFERTA_DEMANDA_CONSULTA_ESPECIALIZADA.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "a747f50345b7cd468522fcc32d61393fe683902e0709a9c5dc8edc02de26cbe4",
+      "codesMentioned": [
+        "12-02-1.0"
+      ],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Segundo y tercer nivel ambulatorio de clínicas\n                             Nivel de atención\n                                                         especializadas u hospitales"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_CITAS_PENDIENTES_ESPECIALIDAD_MÉDICA.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_CITAS_PENDIENTES_ESPECIALIDAD_MÉDICA.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_CITAS_PENDIENTES_ESPECIALIDAD_MÉDICA.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "52f633df99c8ff0a2d34638af98556b413a45ae002bbc29f14482c86c1eabc1c",
+      "codesMentioned": [
+        "12-02-1.0"
+      ],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Segundo y tercer nivel ambulatorio de clínicas\n                             Nivel de atención\n                                                         especializadas u hospitales"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_MORTALIDAD_BRUTA.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_MORTALIDAD_BRUTA.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_MORTALIDAD_BRUTA.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "60c90971b0f3bd1ddb66f1b5fa8c70ae8a34290731cf010b9d12f71bf446c2e2",
+      "codesMentioned": [
+        "12-05-1.0"
+      ],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención           Segundo y tercer nivel hospitalario"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_PORCENTAJE_ALTAS.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_PORCENTAJE_ALTAS.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_PORCENTAJE_ALTAS.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "4f85b16ff1412579ec4245e828b76675331eb40fcc5f3d75ca7ef6d168789c8b",
+      "codesMentioned": [
+        "12-02-1.0"
+      ],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Segundo y tercer nivel ambulatorio de clínicas\n                             Nivel de atención\n                                                         especializadas u hospitales"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_PORCENTAJE_AMBULATORIZACIÓN_QUIRÚRGICA.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_PORCENTAJE_AMBULATORIZACIÓN_QUIRÚRGICA.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_PORCENTAJE_AMBULATORIZACIÓN_QUIRÚRGICA.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "e8548b4342e07ddcf7657b37d15e88198d6ee7cf181b830a9de35da52239f79b",
+      "codesMentioned": [
+        "12-02-1.0"
+      ],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Segundo y tercer nivel ambulatorio de clínicas\n                             Nivel de atención\n                                                         especializadas u hospitales"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_PORCENTAJE_HOPITALIZACIONES_PREVENIBLES.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_PORCENTAJE_HOPITALIZACIONES_PREVENIBLES.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_PORCENTAJE_HOPITALIZACIONES_PREVENIBLES.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "2afa2c02844af8b95a2e644319a9d5e038950614cbc32d8ec5fc4e088ade5c09",
+      "codesMentioned": [
+        "12-03-1.0"
+      ],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Establecimiento de salud.\n                               Nivel de atención\n                                                              Red Integrada de Servicios de Salud (RIPSS)"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_PORCENTAJE_REINGRESO30D.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_PORCENTAJE_REINGRESO30D.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_PORCENTAJE_REINGRESO30D.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "4011b79b96c6b84e156ff13bd7c455ca233f4a1eea97b443fccfc54f7038d874",
+      "codesMentioned": [
+        "12-03-1.0"
+      ],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Establecimiento de salud.\n                               Nivel de atención\n                                                              Red Integrada de Servicios de Salud (RIPSS)"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_PROPORCION_ESTANCIAPROLONGADA.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_PROPORCION_ESTANCIAPROLONGADA.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_PROPORCION_ESTANCIAPROLONGADA.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "733cc54105892c66759e76bdeb78a2f5b686c3d92351ca0e68a853c65a1170f7",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Establecimiento de salud.\n                             Nivel de atención\n                                                            Red Integrada de Servicios de Salud (RIPSS)"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_TASA_REINGRESO24H.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_TASA_REINGRESO24H.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_TASA_REINGRESO24H.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "f39fcdf63da2ad01892b160b434c01027552f30da00f8f8afd69fbb3c4890eda",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Establecimiento de salud.\n                             Nivel de atención\n                                                          Red Integrada de Servicios de Salud (RIPSS)\n                                                          Emergencias/Urgencias"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_TASA_REINGRESO72H.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_TASA_REINGRESO72H.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_TASA_REINGRESO72H.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "1d30d518e07171e0f7c019b629d2b8d3fd92ec6fdead10b82d911b7e01b8c1ce",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Establecimiento de salud.\n                             Nivel de atención\n                                                          Red Integrada de Servicios de Salud (RIPSS)\n                                                          Emergencias/Urgencias"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_TIEMPO_PROM_CIRUGIAAMBULATORIA.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_TIEMPO_PROM_CIRUGIAAMBULATORIA.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_TIEMPO_PROM_CIRUGIAAMBULATORIA.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "6936a28a5f6ea4a091ea7f70a73e49109b29c8f39302b31c0eaf799730b842b5",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Establecimiento de salud.\n                               Nivel de atención\n                                                               Red Integrada de Servicios de Salud (RIPSS)"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_TIEMPO_PROM_ESPECIALIDADES.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_TIEMPO_PROM_ESPECIALIDADES.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_TIEMPO_PROM_ESPECIALIDADES.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "c75eb196afeaa64bb5d747c442e14e01bd601a5805e726d98d4e2c114826de53",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Establecimiento de salud.\n                             Nivel de atención\n                                                         Red Integrada de Servicios de Salud (RIPSS)\n                                                         Especialidad"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "12",
+      "originalName": "12_TIEMPO_PROM_PROCEDIMIENTOS.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_TIEMPO_PROM_PROCEDIMIENTOS.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/12_TIEMPO_PROM_PROCEDIMIENTOS.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1eJtjdEtIGx9ShkqHg5thK1N7Rq_AWL19/view?usp=drivesdk"
+      ],
+      "sha256": "430dc9abc9a3454b5f5ef30fdc01a8719541018c1528f8047e574d53c1ea7e9e",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Establecimiento de salud.\n                             Nivel de atención\n                                                         Red Integrada de Servicios de Salud (RIPSS)\n                                                         Procedimiento"
+      ],
+      "applicabilityStatus": "service_conditional",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Verificar el servicio y tipo de centro definidos por cada ficha; no todos los hospitales tienen todas las prestaciones."
+      ]
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "10",
+      "originalName": "10_ ATENCIONES_AGUJA_(V_1_0).pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_ ATENCIONES_AGUJA_(V_1_0).pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_ ATENCIONES_AGUJA_(V_1_0).txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/view?usp=drivesdk"
+      ],
+      "sha256": "cc582fd601a324cd3ff32f62283a093530897cf65a208f31fa365fcd1b63ff65",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                   II-III."
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "10",
+      "originalName": "10_ATENCIONES_BALON_(V_1_0).pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_ATENCIONES_BALON_(V_1_0).pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_ATENCIONES_BALON_(V_1_0).txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/view?usp=drivesdk"
+      ],
+      "sha256": "885cf59be2fe5d4f0737e0a2cd723b49de44496158323eba0fb4dc6aa9e8ba5b",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                     II-III.\n                                                               Urgencias/Emergencias."
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "10",
+      "originalName": "10_ATENCIONES_TRASLADO_BALON_(V_1_0).pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_ATENCIONES_TRASLADO_BALON_(V_1_0).pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_ATENCIONES_TRASLADO_BALON_(V_1_0).txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/view?usp=drivesdk"
+      ],
+      "sha256": "fae884df0499c3bd73e7a6da6977be12bfcd8d30c6a502fcb065178567ea4ace",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                    II-III."
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "10",
+      "originalName": "10_MEDIANA_TPA_MENOR_30_MIN_(V_1_0).pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_MEDIANA_TPA_MENOR_30_MIN_(V_1_0).pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_MEDIANA_TPA_MENOR_30_MIN_(V_1_0).txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/view?usp=drivesdk"
+      ],
+      "sha256": "9dba3beadc94f976058e389d3ea738ca8e44b581c3ec536f17834cc2715a5195",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención             II-III."
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "10",
+      "originalName": "10_TPA_MEDIBLE_(V_1_0).pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_TPA_MEDIBLE_(V_1_0).pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_TPA_MEDIBLE_(V_1_0).txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/view?usp=drivesdk"
+      ],
+      "sha256": "cd79ec4c06067aaac5bbcc060fc193df3753c5cbdbbc0ee799454ccd216a4346",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                    II-III."
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "10",
+      "originalName": "10_TRASLADO_TPB_MENOR_60_MIN_(V_1_0).pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_TRASLADO_TPB_MENOR_60_MIN_(V_1_0).pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_TRASLADO_TPB_MENOR_60_MIN_(V_1_0).txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/view?usp=drivesdk"
+      ],
+      "sha256": "e1960bf22c41f7a4001d27eb0eec906840548d6c24b7d4acce4dce7b31af8b1f",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                    II-III."
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "10",
+      "originalName": "10_TRASLADO_TpPP_MENOR_60_MIN_(V_1_0).pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_TRASLADO_TpPP_MENOR_60_MIN_(V_1_0).pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/10_TRASLADO_TpPP_MENOR_60_MIN_(V_1_0).txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1Fwir6vhjduRxZ3QxZ1XVBF8Dc_PhVDLr/view?usp=drivesdk"
+      ],
+      "sha256": "571bf0c83ec20ef3525a4b8e07d176d2d873ca05d11f0f352d8a9daa12b1d4db",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                    II-III."
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "15",
+      "originalName": "15_01_1_0_TASA_INCIDENCIA_INFECCIÓN_ASOCIADA_DISPOSITIVO_2024-2028.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1bOO0PJanaKxe_TCAyRg5sDQQwlOJR10f/15_01_1_0_TASA_INCIDENCIA_INFECCIÓN_ASOCIADA_DISPOSITIVO_2024-2028.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1bOO0PJanaKxe_TCAyRg5sDQQwlOJR10f/15_01_1_0_TASA_INCIDENCIA_INFECCIÓN_ASOCIADA_DISPOSITIVO_2024-2028.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1bOO0PJanaKxe_TCAyRg5sDQQwlOJR10f/view?usp=drivesdk"
+      ],
+      "sha256": "152cd7dda603fe56be100dc8ffd3b5a27d6e68fc80fdc30477fa1fb1895eec4b",
+      "codesMentioned": [
+        "15-01-1.0"
+      ],
+      "code": "15-01-1.0",
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención            II - III"
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "15",
+      "originalName": "15_02_1_0_TASA_INCIDENCIA_ACUMULADA _INFECCION_Clostridioides_difficile_2024-2028.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1bOO0PJanaKxe_TCAyRg5sDQQwlOJR10f/15_02_1_0_TASA_INCIDENCIA_ACUMULADA _INFECCION_Clostridioides_difficile_2024-2028.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1bOO0PJanaKxe_TCAyRg5sDQQwlOJR10f/15_02_1_0_TASA_INCIDENCIA_ACUMULADA _INFECCION_Clostridioides_difficile_2024-2028.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1bOO0PJanaKxe_TCAyRg5sDQQwlOJR10f/view?usp=drivesdk"
+      ],
+      "sha256": "aaabe09a3a92f4ce8753a07785fa1a7d96ce8c2a53de88c644022e7d81b8a6f8",
+      "codesMentioned": [
+        "15-02-1.0"
+      ],
+      "code": "15-02-1.0",
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                       II - III"
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "15",
+      "originalName": "15_03_1_0_TASA_INCIDENCIA_ACUMULADA_INFECCION_HERIDA_QUIRÚRGICA_2024-2028.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1bOO0PJanaKxe_TCAyRg5sDQQwlOJR10f/15_03_1_0_TASA_INCIDENCIA_ACUMULADA_INFECCION_HERIDA_QUIRÚRGICA_2024-2028.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1bOO0PJanaKxe_TCAyRg5sDQQwlOJR10f/15_03_1_0_TASA_INCIDENCIA_ACUMULADA_INFECCION_HERIDA_QUIRÚRGICA_2024-2028.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1bOO0PJanaKxe_TCAyRg5sDQQwlOJR10f/view?usp=drivesdk"
+      ],
+      "sha256": "b61549bdf7eefac6a178d9216066483e8ba1549e67ffa07ef6086d0de304fa9a",
+      "codesMentioned": [
+        "15-03-1.0"
+      ],
+      "code": "15-03-1.0",
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                   II - III"
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "15",
+      "originalName": "15_04_1_0_TASA_INCIDENCIA_ACUMULADA_INFECCIONES ASOCIADAS_ATENCION_EN_SALUD_2024-2028.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1bOO0PJanaKxe_TCAyRg5sDQQwlOJR10f/15_04_1_0_TASA_INCIDENCIA_ACUMULADA_INFECCIONES ASOCIADAS_ATENCION_EN_SALUD_2024-2028.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1bOO0PJanaKxe_TCAyRg5sDQQwlOJR10f/15_04_1_0_TASA_INCIDENCIA_ACUMULADA_INFECCIONES ASOCIADAS_ATENCION_EN_SALUD_2024-2028.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1bOO0PJanaKxe_TCAyRg5sDQQwlOJR10f/view?usp=drivesdk"
+      ],
+      "sha256": "faa61bfef822f390f21b57c315046105e1ddf2e52058be03ddfae09770b8d298",
+      "codesMentioned": [
+        "15-04-1.0"
+      ],
+      "code": "15-04-1.0",
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                    II - III"
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": []
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "15",
+      "originalName": "15_TASA INCIDENCIA_INFECCIÓN_ASOCIADA_DISPOSITIVO_UCI_2024-2028_COMPLEMENTARIO.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/individuales/1W4AB7nG08UCM9hd66dXPp-3v_Gjjx6Yb.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/individuales/1W4AB7nG08UCM9hd66dXPp-3v_Gjjx6Yb.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1W4AB7nG08UCM9hd66dXPp-3v_Gjjx6Yb/view?usp=drivesdk"
+      ],
+      "sha256": "26084fa7cd98a09ee4009614ec00f7a8d8ab77f3350e47ba89f14f81127e59ec",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                     II - III"
+      ],
+      "applicabilityStatus": "hospital_explicit",
+      "sourceStatus": "published_download",
+      "notes": [],
+      "relatedEvaluationCodes": [
+        "15-01-1.0"
+      ]
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "03",
+      "originalName": "03-02-2.0_ANE_MENORES.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1-q5IxlzYFhb1DaZQAjf8af37xCv91X8S/03-02-2.0_ANE_MENORES.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1-q5IxlzYFhb1DaZQAjf8af37xCv91X8S/03-02-2.0_ANE_MENORES.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1-q5IxlzYFhb1DaZQAjf8af37xCv91X8S/view?usp=drivesdk"
+      ],
+      "sha256": "18f553430c55ccf8a6d60b9d4fd0f7e5f6a813c894f8945a36973f6c8e2b01ed",
+      "codesMentioned": [
+        "03-02-2.0"
+      ],
+      "code": "03-02-2.0",
+      "declaredLevels": [
+        "Primer Nivel",
+        "Segundo Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                     Primer y Segundo Nivel"
+      ],
+      "applicabilityStatus": "shared_explicit",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Para lectura de laboratorio: desde cinco meses 21 días hasta menos de 28 meses."
+      ],
+      "existingItemId": "03-02-2.0",
+      "title": "Resolución de anemia de seis a menos de 24 meses",
+      "existingCuratedSummaryPath": "/workspace/sites/epss-talamanca/data/curacion.json",
+      "existingCompiledCatalogPath": "/workspace/sites/epss-talamanca/dist/assets/catalogo.json"
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "03",
+      "originalName": "03-03-3.0_ANE_NIÑAS10A.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1-q5IxlzYFhb1DaZQAjf8af37xCv91X8S/03-03-3.0_ANE_NIÑAS10A.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1-q5IxlzYFhb1DaZQAjf8af37xCv91X8S/03-03-3.0_ANE_NIÑAS10A.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1-q5IxlzYFhb1DaZQAjf8af37xCv91X8S/view?usp=drivesdk"
+      ],
+      "sha256": "778dfed0c2581558effaabcdc8a2e68af326e7560c53af5565a39b23fbfb2cab",
+      "codesMentioned": [
+        "03-03-3.0"
+      ],
+      "code": "03-03-3.0",
+      "declaredLevels": [
+        "Primer Nivel",
+        "Segundo Nivel"
+      ],
+      "levelSourceExcerpts": [],
+      "applicabilityStatus": "shared_explicit",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Para lectura de laboratorio: desde 10 años hasta 11 años cuatro meses."
+      ],
+      "existingItemId": "03-03-3.0",
+      "title": "Resolución de anemia en niñas de 10 años",
+      "existingCuratedSummaryPath": "/workspace/sites/epss-talamanca/data/curacion.json",
+      "existingCompiledCatalogPath": "/workspace/sites/epss-talamanca/dist/assets/catalogo.json"
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "03",
+      "originalName": "03_ANEMIA_HB_DIAGNÓSTICO_MENORES2A_V1.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1wYV4m94RY-5-4BnescsrhYAcF1SUDTQl/03_ANEMIA_HB_DIAGNÓSTICO_MENORES2A_V1.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1wYV4m94RY-5-4BnescsrhYAcF1SUDTQl/03_ANEMIA_HB_DIAGNÓSTICO_MENORES2A_V1.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1wYV4m94RY-5-4BnescsrhYAcF1SUDTQl/view?usp=drivesdk"
+      ],
+      "sha256": "88d1a7a4774af62febb5bf82d7ee946db89b1595b15c981eb2bfdff212e8b982",
+      "codesMentioned": [
+        "03-01-2.0"
+      ],
+      "code": null,
+      "declaredLevels": [
+        "Primer Nivel",
+        "Segundo Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                     Primer y Segundo Nivel"
+      ],
+      "applicabilityStatus": "shared_explicit",
+      "sourceStatus": "published_download",
+      "notes": [
+        "El PDF de menores remite en inclusión y exclusión a 03-01-2.0, aunque su encabezado y población corresponden a resolución en seis a menos de 24 meses. No se corrige esa referencia interna por inferencia."
+      ],
+      "existingItemId": "comp-03-hb-diagnostico-menores",
+      "title": "Hemoglobina diagnóstica en menores con anemia",
+      "existingCuratedSummaryPath": "/workspace/sites/epss-talamanca/data/curacion.json",
+      "existingCompiledCatalogPath": "/workspace/sites/epss-talamanca/dist/assets/catalogo.json"
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "03",
+      "originalName": "03_ANEMIA_HB_DIAGNÓSTICO_NIÑAS10A_V3.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1wYV4m94RY-5-4BnescsrhYAcF1SUDTQl/03_ANEMIA_HB_DIAGNÓSTICO_NIÑAS10A_V3.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1wYV4m94RY-5-4BnescsrhYAcF1SUDTQl/03_ANEMIA_HB_DIAGNÓSTICO_NIÑAS10A_V3.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1wYV4m94RY-5-4BnescsrhYAcF1SUDTQl/view?usp=drivesdk"
+      ],
+      "sha256": "8ae19ba534aab91ca78ef5da9cb6c6fc1642262ef247fd4c7957c75e7819504d",
+      "codesMentioned": [
+        "03-03-3.0"
+      ],
+      "code": null,
+      "declaredLevels": [
+        "Primer Nivel",
+        "Segundo Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                       Primer y Segundo Nivel"
+      ],
+      "applicabilityStatus": "shared_explicit",
+      "sourceStatus": "published_download",
+      "notes": [],
+      "existingItemId": "comp-03-hb-diagnostico-ninas",
+      "title": "Hemoglobina diagnóstica en niñas de 10 años",
+      "existingCuratedSummaryPath": "/workspace/sites/epss-talamanca/data/curacion.json",
+      "existingCompiledCatalogPath": "/workspace/sites/epss-talamanca/dist/assets/catalogo.json"
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "03",
+      "originalName": "03_ANEMIA_HB_SEGUIMIENTO_MENORES2A_V2.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1wYV4m94RY-5-4BnescsrhYAcF1SUDTQl/03_ANEMIA_HB_SEGUIMIENTO_MENORES2A_V2.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1wYV4m94RY-5-4BnescsrhYAcF1SUDTQl/03_ANEMIA_HB_SEGUIMIENTO_MENORES2A_V2.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1wYV4m94RY-5-4BnescsrhYAcF1SUDTQl/view?usp=drivesdk"
+      ],
+      "sha256": "a1b85de18c3998870c55d7348c0f4a3baa29f57ad294c0f66c8a7890eedb9834",
+      "codesMentioned": [
+        "03-02-2.0"
+      ],
+      "code": null,
+      "declaredLevels": [
+        "Primer Nivel",
+        "Segundo Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                       Primer y Segundo Nivel"
+      ],
+      "applicabilityStatus": "shared_explicit",
+      "sourceStatus": "published_download",
+      "notes": [],
+      "existingItemId": "comp-03-hb-seguimiento-menores",
+      "title": "Seguimiento de hemoglobina en menores con anemia",
+      "existingCuratedSummaryPath": "/workspace/sites/epss-talamanca/data/curacion.json",
+      "existingCompiledCatalogPath": "/workspace/sites/epss-talamanca/dist/assets/catalogo.json"
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "03",
+      "originalName": "03_ANEMIA_HB_SEGUIMIENTO_NIÑAS10A_V3.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1wYV4m94RY-5-4BnescsrhYAcF1SUDTQl/03_ANEMIA_HB_SEGUIMIENTO_NIÑAS10A_V3.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1wYV4m94RY-5-4BnescsrhYAcF1SUDTQl/03_ANEMIA_HB_SEGUIMIENTO_NIÑAS10A_V3.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1wYV4m94RY-5-4BnescsrhYAcF1SUDTQl/view?usp=drivesdk"
+      ],
+      "sha256": "56951082e0401a533c89e1fddb9deda2e5f88110c9f47e73bd41edaeb2acc33b",
+      "codesMentioned": [
+        "03-03-3.0"
+      ],
+      "code": null,
+      "declaredLevels": [
+        "Primer Nivel",
+        "Segundo Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                      Primer y Segundo Nivel"
+      ],
+      "applicabilityStatus": "shared_explicit",
+      "sourceStatus": "published_download",
+      "notes": [],
+      "existingItemId": "comp-03-hb-seguimiento-ninas",
+      "title": "Seguimiento de hemoglobina en niñas de 10 años",
+      "existingCuratedSummaryPath": "/workspace/sites/epss-talamanca/data/curacion.json",
+      "existingCompiledCatalogPath": "/workspace/sites/epss-talamanca/dist/assets/catalogo.json"
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "09",
+      "originalName": "09_03_2_0_COBERTURA_BIENAL_TAMIZAJE_MAMOGRAFIA_40_74_AÑOS.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1xIVyLcOVgIRjgfHGPUokPesBzxi2Xiu0/09_03_2_0_COBERTURA_BIENAL_TAMIZAJE_MAMOGRAFIA_40_74_AÑOS.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1xIVyLcOVgIRjgfHGPUokPesBzxi2Xiu0/09_03_2_0_COBERTURA_BIENAL_TAMIZAJE_MAMOGRAFIA_40_74_AÑOS.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1xIVyLcOVgIRjgfHGPUokPesBzxi2Xiu0/view?usp=drivesdk"
+      ],
+      "sha256": "d556d07e0e292332562dc8a636e567281b3e26fcafb441139233e156587f925f",
+      "codesMentioned": [
+        "09-03-2.0"
+      ],
+      "code": "09-03-2.0",
+      "declaredLevels": [
+        "Primer Nivel",
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención              Primer, Segundo y Tercer nivel"
+      ],
+      "applicabilityStatus": "shared_explicit",
+      "sourceStatus": "published_download",
+      "notes": [
+        "La ficha dice “mamografía por tomosentesis”; se conserva el nombre del procedimiento en el PDF original."
+      ],
+      "existingItemId": "09-03-2.0",
+      "title": "Mamografía de 40 a 74 años",
+      "existingCuratedSummaryPath": "/workspace/sites/epss-talamanca/data/curacion.json",
+      "existingCompiledCatalogPath": "/workspace/sites/epss-talamanca/dist/assets/catalogo.json"
+    },
+    {
+      "kind": "complementary",
+      "categoryId": "09",
+      "originalName": "09_COBERTURA_BIENAL_MAMOGRAFIA_GRUPOS_EDAD_(V_2_0).pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/166AsNIrhhyJ0buLfMmlU1XI4f0oUivRc/09_COBERTURA_BIENAL_MAMOGRAFIA_GRUPOS_EDAD_(V_2_0).pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/166AsNIrhhyJ0buLfMmlU1XI4f0oUivRc/09_COBERTURA_BIENAL_MAMOGRAFIA_GRUPOS_EDAD_(V_2_0).txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/166AsNIrhhyJ0buLfMmlU1XI4f0oUivRc/view?usp=drivesdk"
+      ],
+      "sha256": "81dc7a8dd613f756f36fabcc08e348dffc423ee6ac0b85fe4ec8344f840d47b2",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Primer Nivel",
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención              Primer, Segundo y Tercer Nivel"
+      ],
+      "applicabilityStatus": "shared_explicit",
+      "sourceStatus": "published_download",
+      "notes": [],
+      "existingItemId": "comp-09-mamografia-grupo-edad",
+      "title": "Mamografía por grupo de edad",
+      "existingCuratedSummaryPath": "/workspace/sites/epss-talamanca/data/curacion.json",
+      "existingCompiledCatalogPath": "/workspace/sites/epss-talamanca/dist/assets/catalogo.json"
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "11",
+      "originalName": "11-01-2.0_COMPORTAMIENTO_GASTO_SUELDOS_CARGOS FIJOS_POR_CONSULTA.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1ISY4UVteJXEcqD8xbdIK3FwRiI4nHher/11-01-2.0_COMPORTAMIENTO_GASTO_SUELDOS_CARGOS FIJOS_POR_CONSULTA.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1ISY4UVteJXEcqD8xbdIK3FwRiI4nHher/11-01-2.0_COMPORTAMIENTO_GASTO_SUELDOS_CARGOS FIJOS_POR_CONSULTA.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1ISY4UVteJXEcqD8xbdIK3FwRiI4nHher/view?usp=drivesdk"
+      ],
+      "sha256": "1831fa70310e4c844b925bc6ce877af70b7b9053287c67c9ba8d2ffa0459e992",
+      "codesMentioned": [
+        "11-01-2.0"
+      ],
+      "code": "11-01-2.0",
+      "declaredLevels": [
+        "Primer Nivel",
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                   Primer Nivel, Segundo Nivel y Tercer Nivel"
+      ],
+      "applicabilityStatus": "shared_explicit",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Aplicabilidad pendiente de aclaración para áreas de salud: la definición e inclusión se refieren a hospitales de segundo y tercer nivel, mientras el campo Nivel de atención incluye primero, segundo y tercero. Debe conservarse esa diferencia y contrastarse con el instrumento de evaluación aplicable."
+      ],
+      "existingItemId": "11-01-2.0",
+      "title": "Gasto en sueldos para cargos fijos por consulta",
+      "existingCuratedSummaryPath": "/workspace/sites/epss-talamanca/data/curacion.json",
+      "existingCompiledCatalogPath": "/workspace/sites/epss-talamanca/dist/assets/catalogo.json"
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "11",
+      "originalName": "11-02-3.0_COMPORTAMIENTO_GASTO_TIEMPOS_EXTRAORDINARIOS.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1ISY4UVteJXEcqD8xbdIK3FwRiI4nHher/11-02-3.0_COMPORTAMIENTO_GASTO_TIEMPOS_EXTRAORDINARIOS.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1ISY4UVteJXEcqD8xbdIK3FwRiI4nHher/11-02-3.0_COMPORTAMIENTO_GASTO_TIEMPOS_EXTRAORDINARIOS.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1ISY4UVteJXEcqD8xbdIK3FwRiI4nHher/view?usp=drivesdk"
+      ],
+      "sha256": "a9b7cb30dd53751187de81d2f6c2a84270ffcb8542db79fa34a4ff77d99d5552",
+      "codesMentioned": [
+        "11-02-3.0"
+      ],
+      "code": "11-02-3.0",
+      "declaredLevels": [
+        "Primer Nivel",
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [],
+      "applicabilityStatus": "shared_explicit",
+      "sourceStatus": "published_download",
+      "notes": [
+        "El PDF original está compuesto por imágenes. Los criterios de este resumen se verificaron visualmente en sus dos páginas.",
+        "Página1 verificada visualmente en esta auditoría: incluye áreas de salud de gestión interna, segundo y tercer nivel; Nivel de atención: Primer, Segundo y Tercer Nivel."
+      ],
+      "existingItemId": "11-02-3.0",
+      "title": "Gasto en tiempos extraordinarios",
+      "existingCuratedSummaryPath": "/workspace/sites/epss-talamanca/data/curacion.json",
+      "existingCompiledCatalogPath": "/workspace/sites/epss-talamanca/dist/assets/catalogo.json"
+    },
+    {
+      "kind": "evaluation",
+      "categoryId": "13",
+      "originalName": "13-01-1.0_FUNCIONAMIENTO CBC_ 2024-2028.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/individuales/14uJb8-rOZT0nryLvsZJzaRBbqptsxPk5.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/individuales/14uJb8-rOZT0nryLvsZJzaRBbqptsxPk5.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/14uJb8-rOZT0nryLvsZJzaRBbqptsxPk5/view?usp=drivesdk"
+      ],
+      "sha256": "7316d3407ecfecf39363c10b5afb874a325517cdbe8b994785eed114755614f0",
+      "codesMentioned": [
+        "13-01-1.0"
+      ],
+      "code": "13-01-1.0",
+      "declaredLevels": [
+        "Primer Nivel",
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                       I-II-III\n                                                       EFES- Consulta Externa- Urgencias-"
+      ],
+      "applicabilityStatus": "shared_explicit",
+      "sourceStatus": "published_download",
+      "notes": [
+        "La ficha declara niveles I-II-III. No implica pertenencia automática a la MR."
+      ],
+      "existingItemId": "13-01-1.0",
+      "title": "Funcionamiento del Comité de Bioética Clínica",
+      "existingCuratedSummaryPath": "/workspace/sites/epss-talamanca/data/curacion.json",
+      "existingCompiledCatalogPath": "/workspace/sites/epss-talamanca/dist/assets/catalogo.json"
+    }
+  ],
+  "missingWithFallback": [
+    {
+      "code": "12-01-1.0",
+      "kind": "evaluation",
+      "categoryId": "12",
+      "originalName": "12_01_1_0_INDICE__UTILIZACIÓN_TIEMPO_EN_EMERGENCIAS.pdf",
+      "missingPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1vCKh22d1Eu6ZH2JmwDGqbvScOzV1rZ3Z/12_01_1_0_INDICE__UTILIZACIÓN_TIEMPO_EN_EMERGENCIAS.pdf",
+      "sourceZipUrl": "https://drive.google.com/file/d/1vCKh22d1Eu6ZH2JmwDGqbvScOzV1rZ3Z/view",
+      "fallbackPdf": "/workspace/sites/epss-talamanca/dist/assets/diseno-epss-2024-2028.pdf",
+      "fallbackPageStart": 166,
+      "fallbackPageEnd": 169,
+      "includesAnnexes": true,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelText": "Unidades con servicios de atención de emergencias.",
+      "notes": [
+        "Descarga individual de0 bytes. Respaldo: diseño general de noviembre de2024, sin presumir que sea la última versión.",
+        "Páginas166–167 ficha;168 anexo1;169 anexo2. Los complementarios24h y72h son páginas170–171, separados."
+      ]
+    },
+    {
+      "code": "12-04-1.0",
+      "kind": "evaluation",
+      "categoryId": "12",
+      "originalName": "12_04_1_0_ÍNDICE_ESTANCIA_AJUSTADO_RIESGO_VS_PORCENTAJE_OCUPACIÓN.pdf",
+      "missingPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1vCKh22d1Eu6ZH2JmwDGqbvScOzV1rZ3Z/12_04_1_0_ÍNDICE_ESTANCIA_AJUSTADO_RIESGO_VS_PORCENTAJE_OCUPACIÓN.pdf",
+      "sourceZipUrl": "https://drive.google.com/file/d/1vCKh22d1Eu6ZH2JmwDGqbvScOzV1rZ3Z/view",
+      "fallbackPdf": "/workspace/sites/epss-talamanca/dist/assets/diseno-epss-2024-2028.pdf",
+      "fallbackPageStart": 200,
+      "fallbackPageEnd": 203,
+      "includesAnnexes": true,
+      "declaredLevels": [
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "notes": [
+        "Descarga individual de0 bytes. Respaldo: diseño general de noviembre de2024, sin presumir que sea la última versión.",
+        "Páginas200–201 ficha;202–203 anexo IEAC."
+      ]
+    }
+  ],
+  "pendingApplicability": [
+    {
+      "kind": "complementary",
+      "categoryId": "11",
+      "originalName": "11_GASTO_PER_CAPITA_EN_AREAS_DE_SALUD_SEGUN_COMPLEJIDAD.pdf",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1vdBXvm75NK-tapGH1a_YzdmXjUyy12-4/11_GASTO_PER_CAPITA_EN_AREAS_DE_SALUD_SEGUN_COMPLEJIDAD.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1vdBXvm75NK-tapGH1a_YzdmXjUyy12-4/11_GASTO_PER_CAPITA_EN_AREAS_DE_SALUD_SEGUN_COMPLEJIDAD.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1vdBXvm75NK-tapGH1a_YzdmXjUyy12-4/view?usp=drivesdk"
+      ],
+      "sha256": "64dba7cccb06907c1b04bc38437cb14a67ce2ba8e947b852e1c9ff8d6bd07e45",
+      "codesMentioned": [],
+      "code": null,
+      "declaredLevels": [
+        "Primer Nivel",
+        "Segundo Nivel",
+        "Tercer Nivel"
+      ],
+      "levelSourceExcerpts": [
+        "Nivel de atención                Primer, segundo y tercer nivel"
+      ],
+      "applicabilityStatus": "pending_clarification",
+      "sourceStatus": "published_download",
+      "notes": [
+        "Aunque la desagregación enumera los tres niveles, la inclusión y el nombre de esta ficha se refieren a áreas de salud."
+      ],
+      "existingItemId": "comp-11-gasto-per-capita-complejidad",
+      "title": "Gasto por persona adscrita según complejidad",
+      "existingCuratedSummaryPath": "/workspace/sites/epss-talamanca/data/curacion.json",
+      "existingCompiledCatalogPath": "/workspace/sites/epss-talamanca/dist/assets/catalogo.json"
+    }
+  ],
+  "supportingDocuments": [
+    {
+      "originalName": "10_ATENCION_PERSONAS_IAMCEST_TPA_MENOS_30_MIN.pdf",
+      "kind": "intervention",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1tXAK5kQo0GIHNz7vmuwc14IgUxQXt4Np/10_ATENCION_PERSONAS_IAMCEST_TPA_MENOS_30_MIN.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1tXAK5kQo0GIHNz7vmuwc14IgUxQXt4Np/10_ATENCION_PERSONAS_IAMCEST_TPA_MENOS_30_MIN.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1tXAK5kQo0GIHNz7vmuwc14IgUxQXt4Np/view?usp=drivesdk"
+      ],
+      "sha256": "e80e989acfb0e8326a4cfc9822d47d1302620c9844204b62050e8aff91f3fefd"
+    },
+    {
+      "originalName": "10_ATENCION_PERSONAS_IAMCEST_TPB_MENOS_90 MIN.pdf",
+      "kind": "intervention",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1tXAK5kQo0GIHNz7vmuwc14IgUxQXt4Np/10_ATENCION_PERSONAS_IAMCEST_TPB_MENOS_90 MIN.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1tXAK5kQo0GIHNz7vmuwc14IgUxQXt4Np/10_ATENCION_PERSONAS_IAMCEST_TPB_MENOS_90 MIN.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1tXAK5kQo0GIHNz7vmuwc14IgUxQXt4Np/view?usp=drivesdk"
+      ],
+      "sha256": "dba2421339df4ababbea6e9c79279cd3486fe83c317b2677992e0769d1dd9e5a"
+    },
+    {
+      "originalName": "10_ATENCION_PERSONAS_IAMCEST_TRASLADO_TPB_MENOS_120 MIN.pdf",
+      "kind": "intervention",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1tXAK5kQo0GIHNz7vmuwc14IgUxQXt4Np/10_ATENCION_PERSONAS_IAMCEST_TRASLADO_TPB_MENOS_120 MIN.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1tXAK5kQo0GIHNz7vmuwc14IgUxQXt4Np/10_ATENCION_PERSONAS_IAMCEST_TRASLADO_TPB_MENOS_120 MIN.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1tXAK5kQo0GIHNz7vmuwc14IgUxQXt4Np/view?usp=drivesdk"
+      ],
+      "sha256": "6946aefe09b75bf4a27c6d3b625a874a5fa0ef39b3f9a802a807056ef47cdafa"
+    },
+    {
+      "originalName": "10_REFERENCIA_PERSONAS_IAMCEST_REHAB_CARD.pdf",
+      "kind": "intervention",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1tXAK5kQo0GIHNz7vmuwc14IgUxQXt4Np/10_REFERENCIA_PERSONAS_IAMCEST_REHAB_CARD.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1tXAK5kQo0GIHNz7vmuwc14IgUxQXt4Np/10_REFERENCIA_PERSONAS_IAMCEST_REHAB_CARD.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1tXAK5kQo0GIHNz7vmuwc14IgUxQXt4Np/view?usp=drivesdk"
+      ],
+      "sha256": "710c8517102e8b8b2e21d0dbfaee236dc730a1d83e1d9954a8b76e9b91b866e1"
+    },
+    {
+      "originalName": "09_TAMIZAJE_CANCER_DE_MAMA.pdf",
+      "kind": "intervention",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1uJdjbAFWJE8_1f2ydSVwu9D8HtfUQ2VN/09_TAMIZAJE_CANCER_DE_MAMA.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/1uJdjbAFWJE8_1f2ydSVwu9D8HtfUQ2VN/09_TAMIZAJE_CANCER_DE_MAMA.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1uJdjbAFWJE8_1f2ydSVwu9D8HtfUQ2VN/view?usp=drivesdk"
+      ],
+      "sha256": "81f79ea70b90e54d99a898c95c35f2fb57c955f6424c70151cadbfa8417e75b6"
+    },
+    {
+      "originalName": "03_PREVENCION_ANEMIA_DEFICIENCIA_HIERRO_INFANTIL_V2.pdf",
+      "kind": "intervention",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/14KxABbPBZxGZH9cIhYNzY0iAIrn_2KgH/03_PREVENCION_ANEMIA_DEFICIENCIA_HIERRO_INFANTIL_V2.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/extraidos/14KxABbPBZxGZH9cIhYNzY0iAIrn_2KgH/03_PREVENCION_ANEMIA_DEFICIENCIA_HIERRO_INFANTIL_V2.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/14KxABbPBZxGZH9cIhYNzY0iAIrn_2KgH/view?usp=drivesdk"
+      ],
+      "sha256": "bc92e605428df6ec35090202d0e15dcc4366145eb086bc4f26e81025a02decb1"
+    },
+    {
+      "originalName": "12_PRODUCTIVIDAD_SERVICIOS_HOSPITALARIOS.pdf",
+      "kind": "intervention",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/individuales/1MRL4GyHK0YuCJp64Sg_703lM35tCTStr.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/individuales/1MRL4GyHK0YuCJp64Sg_703lM35tCTStr.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1MRL4GyHK0YuCJp64Sg_703lM35tCTStr/view?usp=drivesdk"
+      ],
+      "sha256": "784c324b58d80ec2ebdcc74ed8633d618c0185703e0d30f2bbe962fae807d34b"
+    },
+    {
+      "originalName": "15_INFECCIONES ASOCIADAS_ATENCION_EN_SALUD_2024-2028.pdf",
+      "kind": "intervention",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/individuales/1F6uvqOJrS-cvJxregd49VwDaLMHUe1ug.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/individuales/1F6uvqOJrS-cvJxregd49VwDaLMHUe1ug.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1F6uvqOJrS-cvJxregd49VwDaLMHUe1ug/view?usp=drivesdk"
+      ],
+      "sha256": "6a244f4db547fabff58f2848a56fef3bacbea732d7aad28ded4f51f5fabb65aa"
+    },
+    {
+      "originalName": "13 _ BIOETICA_ 2024-2028.pdf",
+      "kind": "intervention",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/individuales/1xf594bMUoj6OXncxQXrsBxhWRQoxRJ4_.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/individuales/1xf594bMUoj6OXncxQXrsBxhWRQoxRJ4_.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1xf594bMUoj6OXncxQXrsBxhWRQoxRJ4_/view?usp=drivesdk"
+      ],
+      "sha256": "d257de116e4883666ba92f7d8a9ab73488daa45e8456347b0ead71d38a3e2a62"
+    },
+    {
+      "originalName": "11 EFICIENCIA EN LA ATENCIÓN INTEGRAL A LA SALUD.pdf",
+      "kind": "intervention",
+      "path": "/workspace/scratch/679e66020f78/tmp/mr-drive/individuales/1o_xwtV6iH9zqggLsDbWzNHaf-TudaV35.pdf",
+      "textPath": "/workspace/scratch/679e66020f78/tmp/mr-drive/individuales/1o_xwtV6iH9zqggLsDbWzNHaf-TudaV35.txt",
+      "sourceUrls": [
+        "https://drive.google.com/file/d/1o_xwtV6iH9zqggLsDbWzNHaf-TudaV35/view?usp=drivesdk"
+      ],
+      "sha256": "c6d03d6771400bfdda045b4727eaaaa86edc1b56bab48948b03ca2028e9fd277"
+    }
+  ],
+  "globalNotes": [
+    "La MR hospitalaria no se halló en las fuentes locales auditadas. No copiar la MR del primer nivel.",
+    "Incluir anemia 03-02/03-03 y cuatro complementarios (I/II), mamografía 09-03 y su complementario (I/II/III), eficiencia 11-01/11-02 y bioética 13-01.",
+    "No incluir 05,06,07 ni08 como hospitalarias: las fichas actuales descargadas de esos paquetes declaran solo Primer Nivel.",
+    "El PDF general de diseño del26 de noviembre de2024 tiene209 páginas y sirve como respaldo para dos fichas faltantes. No presentar esa fecha como actualización de criterios.",
+    "El Full reader actual tiene excepciones de tablas para tres fichas del primer nivel. Las tablas y fórmulas hospitalarias requieren revisión específica."
+  ]
+}

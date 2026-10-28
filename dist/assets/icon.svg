@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="icon-title icon-desc">
+  <title id="icon-title">Fichas técnicas EPSS, hospitales</title>
+  <desc id="icon-desc">Identidad tipográfica blanca sobre fondo azul. Todo el contenido está dentro del área segura de la máscara del icono.</desc>
+  <rect width="512" height="512" fill="#087BB7"/>
+  <g fill="#FFFFFF" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="256" y="150" font-size="48" font-weight="700" letter-spacing="1.3">FICHAS</text>
+    <text x="256" y="213" font-size="48" font-weight="700" letter-spacing="0.5">TÉCNICAS</text>
+    <text x="256" y="337" font-size="122" font-weight="700" letter-spacing="-3">EPSS</text>
+    <text x="256" y="412" font-size="56" font-weight="800" letter-spacing="-1.2">HOSPITALES</text>
+  </g>
+</svg>

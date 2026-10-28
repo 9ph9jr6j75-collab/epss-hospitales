@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "EPSS a la mano · Hospitales · DRIPSSHA",
+  "short_name": "EPSS Hospitales",
+  "description": "Fichas técnicas EPSS para hospitales. Iniciativa de la DRIPSSHA, Dirección de Red Integrada de Prestación de Servicios de Salud Huetar Atlántica.",
+  "lang": "es-CR",
+  "start_url": "./#evaluacion",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f8fc",
+  "theme_color": "#61b5e5",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

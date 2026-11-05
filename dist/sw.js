@@ -1,5 +1,5 @@
 'use strict';
-const CACHE='epss-hospitales-dripssha-20261028-v3';
+const CACHE='epss-hospitales-dripssha-20261104-v4';
 const VIEWER_MANIFEST='assets/pdfjs/asset-manifest.json';
 const CORE=['./','index.html','styles.css','full-reader.js','document-viewer.js','document-viewer.css','app-v2.js','manifest.webmanifest','assets/icon.svg','assets/icon-180.png','assets/icon-192.png','assets/icon-512.png','assets/social-preview.png','assets/catalogo.json','assets/config.json','styles.css?v=20261028-h3','app-v2.js?v=20261028-h3',VIEWER_MANIFEST];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE.map(file=>new Request(new URL(file,self.location.href),{cache:'reload'})))).then(()=>self.skipWaiting()));});

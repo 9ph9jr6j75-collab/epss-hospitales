@@ -967,10 +967,12 @@ body { background:var(--canvas); }
 @media(max-width:760px) { #detail-modal .reading-switch { top:62px; }#detail-modal #detail-full,#detail-modal #detail-summary { scroll-margin-top:170px; } }
 
 /* Acceso visible a la instalación en el teléfono. */
+.install-actions { display:flex;flex-direction:column;align-items:flex-end;gap:4px; }
 .install-guide-btn { display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:44px;padding:10px 13px;border:1px solid #9cc9e3;border-radius:8px;background:#e4f2fb;color:#075e91;font-size:12px;font-weight:700;line-height:1.45;white-space:nowrap; }
+.install-guide-btn:disabled { cursor:default;background:#edf5f9;color:#526e7e;border-color:#bdd1dd; }
 .install-guide-btn > span:first-child { display:inline-flex;align-items:center;flex:none; }
 .install-guide-btn svg { width:18px;height:18px; }
-.install-guide-btn:hover { background:#d4eaf8;border-color:#66abd3; }
+.install-guide-btn:hover:not(:disabled) { background:#d4eaf8;border-color:#66abd3; }
 .install-guide-btn:focus-visible,.install-device-tabs button:focus-visible { outline:3px solid #2c8cc2;outline-offset:3px; }
 
 

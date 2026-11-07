@@ -102,7 +102,9 @@ async function main(){
   let task;swHandlers.install({waitUntil:promise=>{task=promise;}});await task;
   swHandlers.activate({waitUntil:promise=>{task=promise;}});await task;assert.deepEqual(deleted,['epss-hospitales-dripssha-old'],'La actualización solo debe borrar cachés hospitalarias anteriores');
   assert.ok(precache.includes('document-viewer.js')&&precache.includes('document-viewer.css'));
-  assert.ok(precache.includes('catalogo.json')&&precache.includes('app-v2.js?v=20261028-h3')&&precache.includes('styles.css?v=20261028-h3'),'Los recursos versionados deben estar disponibles sin conexión');
+  const html=fs.readFileSync(path.join(root,'dist/index.html'),'utf8');
+  const appScript=html.match(/src="(app-v2\.js\?v=[^"]+)"/)[1];
+  assert.ok(precache.includes('catalogo.json')&&precache.includes(appScript)&&precache.includes('styles.css?v=20261028-h3'),'Los recursos versionados deben estar disponibles sin conexión');
   assert.ok(!precache.some(file=>/^mr\.json(?:\?|$)/.test(file)),'La app hospitalaria no debe cargar la MR del primer nivel');
   assert.ok(!precache.some(file=>/\.mjs$/.test(file)),'La biblioteca grande no debe descargarse al iniciar la app');
   for(const name of ['pdf.mjs','pdf.worker.mjs']){

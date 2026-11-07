@@ -104,7 +104,8 @@ async function main(){
   assert.ok(precache.includes('document-viewer.js')&&precache.includes('document-viewer.css'));
   const html=fs.readFileSync(path.join(root,'dist/index.html'),'utf8');
   const appScript=html.match(/src="(app-v2\.js\?v=[^"]+)"/)[1];
-  assert.ok(precache.includes('catalogo.json')&&precache.includes(appScript)&&precache.includes('styles.css?v=20261028-h3'),'Los recursos versionados deben estar disponibles sin conexión');
+  const appStyle=html.match(/href="(styles\.css\?v=[^"]+)"/)[1];
+  assert.ok(precache.includes('catalogo.json')&&precache.includes(appScript)&&precache.includes(appStyle),'Los recursos versionados deben estar disponibles sin conexión');
   assert.ok(!precache.some(file=>/^mr\.json(?:\?|$)/.test(file)),'La app hospitalaria no debe cargar la MR del primer nivel');
   assert.ok(!precache.some(file=>/\.mjs$/.test(file)),'La biblioteca grande no debe descargarse al iniciar la app');
   for(const name of ['pdf.mjs','pdf.worker.mjs']){

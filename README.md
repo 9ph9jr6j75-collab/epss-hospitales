@@ -43,6 +43,7 @@ python3 scripts/verify-hospital-reading.py
 node scripts/verify-full-reader.cjs
 node scripts/verify-analytics.cjs
 node scripts/verify-document-viewer.cjs
+node scripts/check-install.mjs
 node --check dist/app-v2.js
 node --check dist/sw.js
 ```

@@ -12,6 +12,8 @@ Cada ficha dispone de Resumen, Completa (Full) y PDF original. Las familias tien
 
 Los favoritos y las consultas recientes se guardan en este dispositivo. La guía de instalación explica cómo agregar la app al inicio de iPhone, Android o al escritorio de una computadora. El visor de PDF tiene regreso a la aplicación y controles de página y zoom. El motor PDF.js se carga al abrir un PDF, conservando sus licencias.
 
+Al abrir desde el icono en modo app, el encabezado muestra "App instalada" y conserva la ayuda "Cómo instalar". Aceptar la solicitud del navegador no confirma la instalación ni guarda ese estado.
+
 ## Evaluación hospitalaria
 
 No se traslada la composición ni la fórmula de la MR del primer nivel a hospitales. Las fuentes hospitalarias reunidas no permiten confirmar una MR hospitalaria. La navegación principal contiene Evaluación y Complementarios. No se presenta una cejilla MR mientras no exista un instrumento hospitalario que la respalde. Los enlaces anteriores a esa cejilla abren Evaluación.
